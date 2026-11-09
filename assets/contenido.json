@@ -1,0 +1,223 @@
+{
+  "cursos": [
+    {
+      "id": "c1",
+      "titulo": "Hardware y software",
+      "descripcion": "Conoce las partes de una computadora y los programas que la hacen funcionar.",
+      "lecciones": [
+        {
+          "id": "c1_l1",
+          "titulo": "¿Qué es una computadora?",
+          "texto": "Una computadora es una máquina que recibe datos, los procesa y entrega resultados. Funciona con dos partes que trabajan juntas: el hardware, que es lo físico, y el software, que son los programas.",
+          "preguntas": [
+            {
+              "enunciado": "¿Qué hace una computadora con los datos que recibe?",
+              "opciones": ["Los procesa y entrega resultados", "Solo los guarda en papel", "Los borra al instante"],
+              "correcta": 0
+            },
+            {
+              "enunciado": "¿Cuáles son las dos partes que forman un sistema informático?",
+              "opciones": ["Pantalla y teclado", "Hardware y software", "Internet y correo"],
+              "correcta": 1
+            },
+            {
+              "enunciado": "¿Qué significa procesar datos?",
+              "opciones": ["Imprimirlos", "Transformarlos para obtener un resultado", "Enviarlos por correo"],
+              "correcta": 1
+            }
+          ]
+        },
+        {
+          "id": "c1_l2",
+          "titulo": "El hardware",
+          "texto": "El hardware son las piezas físicas que puedes tocar. Dentro del equipo están la CPU, que ejecuta las instrucciones, la memoria RAM, que guarda lo que usas en el momento, y el disco, que guarda tus archivos aunque apagues el equipo.",
+          "preguntas": [
+            {
+              "enunciado": "¿Qué componente ejecuta las instrucciones?",
+              "opciones": ["La RAM", "La CPU", "El disco"],
+              "correcta": 1
+            },
+            {
+              "enunciado": "¿Qué guarda los archivos aunque apagues la computadora?",
+              "opciones": ["La RAM", "El disco de almacenamiento", "El teclado"],
+              "correcta": 1
+            },
+            {
+              "enunciado": "¿Cuál es un dispositivo de entrada?",
+              "opciones": ["Monitor", "Impresora", "Teclado"],
+              "correcta": 2
+            }
+          ]
+        },
+        {
+          "id": "c1_l3",
+          "titulo": "El software",
+          "texto": "El software es el conjunto de programas que le dicen al hardware qué hacer. Se divide en software de sistema, como Windows o Android, y software de aplicación, como un navegador o un procesador de texto.",
+          "preguntas": [
+            {
+              "enunciado": "¿Cuál es un ejemplo de software de aplicación?",
+              "opciones": ["Un navegador web", "La memoria RAM", "El mouse"],
+              "correcta": 0
+            },
+            {
+              "enunciado": "Windows y Android son ejemplos de...",
+              "opciones": ["Hardware", "Software de sistema", "Dispositivos de salida"],
+              "correcta": 1
+            },
+            {
+              "enunciado": "¿Qué le indica el software al hardware?",
+              "opciones": ["De qué color ser", "Qué tareas debe realizar", "Cuánto cuesta"],
+              "correcta": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "titulo": "Sistema operativo y archivos",
+      "descripcion": "Aprende a organizar tu información y cómo funciona el sistema operativo.",
+      "lecciones": [
+        {
+          "id": "c2_l1",
+          "titulo": "¿Qué es un sistema operativo?",
+          "texto": "El sistema operativo es el programa principal de la computadora. Administra el hardware, ejecuta las aplicaciones y te da una interfaz para usar el equipo. Algunos ejemplos son Windows, Linux, macOS y Android.",
+          "preguntas": [
+            {
+              "enunciado": "¿Cuál es la función principal de un sistema operativo?",
+              "opciones": ["Navegar por internet", "Administrar el hardware y los programas", "Editar fotos"],
+              "correcta": 1
+            },
+            {
+              "enunciado": "¿Cuál NO es un sistema operativo?",
+              "opciones": ["Linux", "Android", "Excel"],
+              "correcta": 2
+            },
+            {
+              "enunciado": "¿Qué te permite hacer la interfaz del sistema?",
+              "opciones": ["Usar el equipo de forma sencilla", "Aumentar la RAM", "Conectarte al wifi sin router"],
+              "correcta": 0
+            }
+          ]
+        },
+        {
+          "id": "c2_l2",
+          "titulo": "Archivos y carpetas",
+          "texto": "Un archivo guarda información, como un documento o una foto, y su nombre termina en una extensión como .docx o .jpg. Las carpetas sirven para organizar los archivos. Una buena organización te ahorra tiempo al buscar.",
+          "preguntas": [
+            {
+              "enunciado": "¿Qué indica la extensión .jpg?",
+              "opciones": ["Que es una imagen", "Que es un video", "Que es una hoja de cálculo"],
+              "correcta": 0
+            },
+            {
+              "enunciado": "¿Para qué sirven las carpetas?",
+              "opciones": ["Para organizar archivos", "Para acelerar el internet", "Para apagar el equipo"],
+              "correcta": 0
+            },
+            {
+              "enunciado": "¿Qué tipo de archivo suele tener la extensión .docx?",
+              "opciones": ["Una presentación", "Un documento de Word", "Un audio"],
+              "correcta": 1
+            }
+          ]
+        },
+        {
+          "id": "c2_l3",
+          "titulo": "Copias de seguridad",
+          "texto": "Una copia de seguridad es un duplicado de tus archivos guardado en otro lugar, como una memoria USB, un disco externo o la nube. Si tu equipo falla o se pierde, tus datos siguen a salvo.",
+          "preguntas": [
+            {
+              "enunciado": "¿Qué es una copia de seguridad?",
+              "opciones": ["Un virus", "Un duplicado de tus archivos en otro lugar", "Un programa de dibujo"],
+              "correcta": 1
+            },
+            {
+              "enunciado": "¿Dónde se puede guardar una copia de seguridad?",
+              "opciones": ["Solo en la misma carpeta", "En un disco externo o en la nube", "En la memoria RAM"],
+              "correcta": 1
+            },
+            {
+              "enunciado": "¿Por qué es importante hacerla?",
+              "opciones": ["Para que el equipo sea más rápido", "Para no perder datos si algo falla", "Para cambiar el fondo de pantalla"],
+              "correcta": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "titulo": "Internet y seguridad",
+      "descripcion": "Entiende cómo funciona la red y cómo protegerte.",
+      "lecciones": [
+        {
+          "id": "c3_l1",
+          "titulo": "¿Cómo funciona internet?",
+          "texto": "Internet es una red mundial de computadoras conectadas entre sí. Cuando abres una página, tu navegador pide la información a un servidor y este la envía de vuelta. Las direcciones web ayudan a encontrar cada sitio.",
+          "preguntas": [
+            {
+              "enunciado": "¿Qué es internet?",
+              "opciones": ["Un programa de Windows", "Una red mundial de computadoras conectadas", "Un tipo de archivo"],
+              "correcta": 1
+            },
+            {
+              "enunciado": "¿Qué computadora entrega la página que solicitas?",
+              "opciones": ["El servidor", "El teclado", "La impresora"],
+              "correcta": 0
+            },
+            {
+              "enunciado": "¿Para qué sirve una dirección web?",
+              "opciones": ["Para encontrar un sitio", "Para guardar fotos", "Para formatear el disco"],
+              "correcta": 0
+            }
+          ]
+        },
+        {
+          "id": "c3_l2",
+          "titulo": "Contraseñas seguras",
+          "texto": "Una contraseña segura es larga y mezcla letras, números y símbolos. Evita usar tu nombre o fechas, y no repitas la misma contraseña en todas tus cuentas. Si es posible, activa la verificación en dos pasos.",
+          "preguntas": [
+            {
+              "enunciado": "¿Cuál es la contraseña más segura?",
+              "opciones": ["12345678", "miNombre2005", "T4rde-Lluv!osa_93"],
+              "correcta": 2
+            },
+            {
+              "enunciado": "¿Qué se recomienda con las contraseñas?",
+              "opciones": ["Usar la misma en todas las cuentas", "Usar una distinta en cada cuenta", "Compartirla con amigos"],
+              "correcta": 1
+            },
+            {
+              "enunciado": "¿Qué es la verificación en dos pasos?",
+              "opciones": ["Un segundo paso para confirmar que eres tú", "Escribir la contraseña dos veces", "Tener dos cuentas"],
+              "correcta": 0
+            }
+          ]
+        },
+        {
+          "id": "c3_l3",
+          "titulo": "Phishing y virus",
+          "texto": "El phishing es un engaño en el que alguien se hace pasar por una empresa para robar tus datos, casi siempre con mensajes o enlaces falsos. No abras enlaces sospechosos ni descargues archivos de fuentes desconocidas, y mantén tu antivirus actualizado.",
+          "preguntas": [
+            {
+              "enunciado": "¿Qué es el phishing?",
+              "opciones": ["Un engaño para robar tus datos", "Un tipo de antivirus", "Una red social"],
+              "correcta": 0
+            },
+            {
+              "enunciado": "Si recibes un mensaje sospechoso con un enlace, ¿qué haces?",
+              "opciones": ["Lo abres para ver qué es", "No lo abres y lo eliminas", "Lo reenvías a todos"],
+              "correcta": 1
+            },
+            {
+              "enunciado": "¿Qué ayuda a protegerte de virus?",
+              "opciones": ["Mantener el antivirus actualizado", "Desactivar las actualizaciones", "Descargar de cualquier sitio"],
+              "correcta": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
