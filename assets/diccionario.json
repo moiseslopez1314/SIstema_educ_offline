@@ -1,0 +1,18 @@
+[
+  { "termino": "Hardware", "definicion": "Conjunto de piezas físicas de una computadora.", "ejemplo": "El teclado, el monitor y la CPU." },
+  { "termino": "Software", "definicion": "Programas que le indican al hardware qué hacer.", "ejemplo": "Windows y un navegador web." },
+  { "termino": "CPU", "definicion": "Procesador: ejecuta las instrucciones de los programas.", "ejemplo": "Un procesador de cuatro núcleos." },
+  { "termino": "RAM", "definicion": "Memoria temporal que guarda lo que estás usando en el momento.", "ejemplo": "Al apagar el equipo, su contenido se borra." },
+  { "termino": "Sistema operativo", "definicion": "Programa principal que administra el hardware y las aplicaciones.", "ejemplo": "Windows, Linux o Android." },
+  { "termino": "Archivo", "definicion": "Unidad de información guardada con un nombre y una extensión.", "ejemplo": "tarea.docx" },
+  { "termino": "Carpeta", "definicion": "Espacio para organizar archivos y otras carpetas.", "ejemplo": "Una carpeta llamada Documentos." },
+  { "termino": "Extensión", "definicion": "Parte final del nombre de un archivo que indica su tipo.", "ejemplo": ".jpg indica que es una imagen." },
+  { "termino": "Copia de seguridad", "definicion": "Duplicado de tus archivos guardado en otro lugar.", "ejemplo": "Guardar tus fotos en un disco externo." },
+  { "termino": "Internet", "definicion": "Red mundial de computadoras conectadas entre sí.", "ejemplo": "Abrir una página web desde tu teléfono." },
+  { "termino": "Navegador", "definicion": "Programa que permite visitar páginas web.", "ejemplo": "Chrome, Edge o Firefox." },
+  { "termino": "Servidor", "definicion": "Computadora que entrega información a otras cuando se la piden.", "ejemplo": "El servidor que envía una página web a tu navegador." },
+  { "termino": "Contraseña", "definicion": "Clave secreta que protege el acceso a una cuenta.", "ejemplo": "Una combinación larga de letras, números y símbolos." },
+  { "termino": "Phishing", "definicion": "Engaño para robar datos haciéndose pasar por una empresa.", "ejemplo": "Un correo falso que imita a tu banco." },
+  { "termino": "Antivirus", "definicion": "Programa que detecta y elimina software malicioso.", "ejemplo": "Analizar una memoria USB antes de abrirla." },
+  { "termino": "La nube", "definicion": "Almacenamiento y servicios que se usan por internet en lugar de tu equipo.", "ejemplo": "Guardar documentos en un servicio en línea." }
+]

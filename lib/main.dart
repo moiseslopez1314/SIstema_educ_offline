@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'screens/inicio_screen.dart';
+import 'screens/menu_screen.dart';
 import 'theme/colores.dart';
 
 void main() {
@@ -30,7 +30,7 @@ class MiniCursosApp extends StatelessWidget {
           ),
         ),
       ),
-      home: const InicioScreen(),
+     home: const MenuScreen(), 
     );
   }
 }
